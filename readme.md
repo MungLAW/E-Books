@@ -26,6 +26,7 @@ RedBlack.pdf
 算法引论：一种创造性方法.pdf
 ## database
 Mastering Redis.epub
+MongoDB权威指南 第2版 霍多罗夫.mobi
 O'Reilly.High.Performance.MySQL.3rd.Edition.Mar.2012.pdf
 QConSF2012-EricBrewer-NoSQLPastPresentFuture.pdf
 Redis in Action.pdf
@@ -88,6 +89,7 @@ threads.pdf
 暗时间.pdf
 浪潮之巅.pdf
 深入理解Java虚拟机（第2版）-da83.mobi
+程序员的自我修养.mobi
 精通正则表达式.pdf
 编码的奥秘.pdf
 ## program language
